@@ -1,0 +1,198 @@
+getwd
+getdw()
+getwd()
+available.package()
+a <- available.packages()
+install.packages("KernSmooth")
+library(KernSmooth)
+clear
+r --silent
+demo()
+system(clear)
+10+6
+cd /bin/macosx
+x<-1:4
+y<-2:3
+X+y
+x+y
+x<-c(14,17,4,5,13,12,10)
+x[x>10]<-4
+x
+x<-read.csv("/Users/anujanair/Downloads/hw1_data.csv")
+x
+y<-x[2,]
+y
+y<-x[1:2,]
+y
+y<-nrows(x)
+nrow(x)
+y<-x[nrow(x)-1 : nrow(x),]
+y
+a<-nrow(x)-1
+b<-nrow(x)
+z<-x[$a:$b,]
+tail(x,n=2)
+z<-x[47,]
+z
+z<-isbad(x[,1])
+z<-is.na(x[,1])
+z
+z<-x[,1]
+z
+y<-length(z[is.na(z)])
+y
+y<-mean(z)
+y
+z
+y[x<> NA]
+y<-mean(complete.cases(z))
+y
+y<-mean(z,na.rm=true)
+y<-mean(z,na.rm=TRUE)
+y
+z<-x$Ozone > 31
+nrow(z)
+z
+z<-x[which(x$Ozone>31 & x$Temp> 90),]
+z
+y<-mean(x$Temp)
+y
+y<-mean(x$Solar.R)
+y
+z
+y<-mean(z$Solar.R)
+y
+z<-x[which(x$Month=6),]
+z<-x[which(x$Month==6),]
+z
+y<-mean(z$Temp)
+y
+z<-x[which(x$Month ==5)]
+z<-x[which(x$Month == 5),]
+y<-max[z$Ozone]
+y<-which.max(z$Ozone)
+y
+z
+which.max(z$Ozone)
+max(z$Ozone)
+max(z[1])
+min(z[1])
+Colmax(z$Ozone)
+colmax(z)
+max(z)
+apply(z,1,which.max)
+z[which.max(z$Ozone)]
+max.col(z$Ozone)
+colMax <- function(data) sapply(data, max, na.rm = TRUE)
+colMax(z$Ozone)
+colMax <- function(z) sapply(data, max, na.rm = TRUE)
+apply(ozone, MARGIN = 2, function(x) max(x, na.rm=TRUE))
+apply(z, MARGIN = 2, function(x) max(x, na.rm=TRUE))
+apply(z$Ozone, MARGIN = 2, function(x) max(x, na.rm=TRUE))
+a <- c(1,3, 5)
+b<-c(3,2,10)
+rbind(a,b)
+install.packages(swirl)
+install.packages("swirl")
+swirl()
+library(swirl)
+install_from_swirl("R Programming")
+swirl()
+5+7
+x<-5+7
+x
+y<-x-3
+y
+z<-c(1,1,9,3,14)
+x
+z
+z <- c(1.1, 9, 3.14)
+?c
+bye()
+swirl()
+swirl
+get swirl()
+library(swirl)
+swirl()
+z
+z,55
+bye
+quit
+skip()
+unload
+bye
+info()
+bye()
+add2<-function(x,y){x+y}
+add2(3,5)
+above10<-function(x)
+{}
+above10<-function(x)
+{use<-x >10}
+x[use]
+help("list.files")
+getwd()
+getwd()
+getwd()
+ls()
+ls() -l
+swirl()
+swirl90
+library(swirl)
+swirl()
+swirl()
+if ("TRUE" == "TRUE")
+print "True"
+if (TRUE==TRUE)
+print x
+if {"TRUE"=="TRUE"}
+TRUE==TRUE
+FALSE==TRUE
+(FALSE == TRUE) == FALSE
+6==7
+6<7
+10<=10
+5!=7
+!(5==7)
+FALSE & FALSE
+TRUE & c (TRUE,FALSE,FALSE)
+TRUE && c (TRUE,FALSE,FALSE)
+TRUE ! c(TRUE,FALSE,FALSE)
+TRUE | c(TRUE,FALSE,FALSE)
+TRUE || c(TRUE,FALSE,FALSE)
+5 > 8 || 6 != 8 && 4 > 3.9
+isTRUE(6>4)
+identical('twins', 'twins')
+xor(5 == 6, !FALSE)
+ints<-sample(10)
+ints
+ints>5
+which(ints>7)
+any(int<0)
+any(ints<0)
+all(ints>0)
+head(flags)
+dim(flags)
+viewinfo()
+class(flags)
+cls_list <- lapply(flags, class)
+cls_list
+class(cls_list)
+as.character(cls_list)
+cls_list_sapply < sapply(flags,class)
+cls_list_sapply <- sapply(flags,class)
+cls_vect <- sapply(flags, class)
+class(cls_vect)
+bye
+bye()
+getwd()
+append("a","b")
+a<-"/Users/anujanair/Documents/Data Science/R"
+b<200
+b<-200
+append(a,"b",".csv")
+append(a,b,",csv")
+swirl()
+bye()
+swirl()
+bye()
